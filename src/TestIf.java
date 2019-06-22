@@ -1,7 +1,7 @@
 
 public class TestIf {
 	public static void main(String[] args) {
-		int i = 20;
+		int i = 30;
 		if(i < 20) {
 			System.out.println("<20");
 		} else if (i < 40) {
